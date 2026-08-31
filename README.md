@@ -53,6 +53,7 @@ Proyek visualisasi dashboard interaktif yang menyajikan ringkasan eksekutif meng
 - People Analytics / HR Analytics
 - Dashboard & Data Visualization (Looker Studio)
 ## **Preview:** 
-  ![Customer Dashboard](project-3-finance/preview.png)
+<img width="350" height="651" alt="Human Capital Analytics Dashboard" src="https://github.com/user-attachments/assets/2c89b8be-4a33-4c37-a841-d2a42c04d74c" />
+
   
 * **Link Interaktif:** https://datastudio.google.com/s/vMoR0LYSGRo
