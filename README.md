@@ -13,7 +13,8 @@ Dashboard interaktif ini menyajikan analisis komprehensif terkait tren penjualan
 - **Category & Product Performance:** Perbandingan volume transaksi dan pendapatan berdasarkan kategori produk (Mobiles & Tablets, Entertainment, Computing, dll.).
 - **Customer & Product Summaries:** Identifikasi produk terlaris (*Top SKUs*) dan profil pelanggan berpendapatan tertinggi (*Top Customers*).
 ## 🛠️ Tools Used
-- Data Visualization & Dashboard Builder (Looker Studio)
+- Google Sheets
+- Dashboard & Data Visualization (Looker Studio)
 ## **Preview:** 
 <img width="301" height="645" alt="Retail Transaction Dashboard" src="https://github.com/user-attachments/assets/8c88c5e2-9336-4d09-9768-ce4f0bdd452a" />
 
@@ -30,8 +31,7 @@ Proyek analisis data ini berfokus pada evaluasi demografi, tingkat risiko, dan p
 - **Revenue & Expense Breakdown:** Analisis pola pengeluaran nasabah (Bills, Entertainment, Fuel, Grocery) serta pendapatan bunga (*interest earned*) per segmen pekerjaan.
 - **Risk Profile:** Evaluasi akun menunggak (*delinquent accounts*) berdasarkan demografi dan tingkat pendidikan untuk manajemen risiko.
 ## 🛠️ Tools Used
-- Google Looker Studio, Google Sheets.
-- Data Analytics & Customer Segmentation
+- Google Sheets
 - Dashboard & Data Visualization (Looker Studio)
 ## **Preview:** 
 <img width="484" height="645" alt="Credit Card Customer Analytics Dashboard" src="https://github.com/user-attachments/assets/5993f2d6-0339-4030-b99a-d8e771d6941c" />
@@ -50,7 +50,7 @@ Proyek visualisasi dashboard interaktif yang menyajikan ringkasan eksekutif meng
 - **Recruitment Channel Comparison:** Perbandingan efektivitas jumlah rekrutmen dan rasio kelolosan promosi antar saluran rekrutmen.
 - **Interactive Filters:** Penapisan data berdasarkan Departemen, Jenis Kelamin, dan Status Promosi untuk analisis mendalam.
 ## 🛠️ Tools Used
-- People Analytics / HR Analytics
+- Google Sheets
 - Dashboard & Data Visualization (Looker Studio)
 ## **Preview:** 
 <img width="350" height="651" alt="Human Capital Analytics Dashboard" src="https://github.com/user-attachments/assets/2c89b8be-4a33-4c37-a841-d2a42c04d74c" />
