@@ -57,3 +57,51 @@ Proyek visualisasi dashboard interaktif yang menyajikan ringkasan eksekutif meng
 
   
 * **Link Interaktif:** https://datastudio.google.com/s/vMoR0LYSGRo
+
+---
+
+## 4. HR Workforce & Equity Analytics Dashboard
+
+### 📌 Description
+
+Dashboard interaktif ini menyajikan analisis komprehensif terkait struktur tenaga kerja, distribusi gaji, kesetaraan gender, serta demografi karyawan di berbagai departemen. Proyek ini memvisualisasikan metrik utama HR seperti distribusi status kerja, masa kerja (*tenure*), tingkat gaji (*salary band*), sebaran wilayah, serta hubungan jam kerja terhadap kompensasi untuk mendukung pengambilan keputusan berbasis data di bidang manajemen sumber daya manusia.
+
+### 📊 Key Highlights
+
+* **Employment Status Distribution:** Proporsi status kerja karyawan terdiri dari **57.01% Part-Time** dan **42.99% Full-Time**.
+* **Total Employees By Group Age:** Distribusi usia karyawan dikelompokkan menjadi:
+  * **20–29 tahun:** 127 karyawan
+  * **30–39 tahun:** 234 karyawan
+  * **40–49 tahun:** 254 karyawan
+  * **50+ tahun:** 220 karyawan
+* **Total Employees By Department:** Jumlah karyawan terbanyak berada di departemen **Sales** (224), **Customer Support** (223), dan **Operations and...** (203), diikuti oleh **Marketing** (88), **Finance** (48), **Human Resources** (29), dan **Leadership** (20).
+* **Salary Distribution by Performance:** Rincian rata-rata gaji berdasarkan tingkatan (*Salary Band*) beserta nilai batas bawah (*bottom*) dan batas atas (*top*):
+  * **T1:** Rata-rata **$75,091** (Bottom: $71,132 | Top: $78,887)
+  * **T2:** Rata-rata **$92,756** (Bottom: $88,593 | Top: $101,759)
+  * **T3:** Rata-rata **$107,138** (Bottom: $101,715 | Top: $116,361)
+  * **T4:** Rata-rata **$124,277** (Bottom: $118,360 | Top: $128,659)
+  * **T5:** Rata-rata **$139,471** (Bottom: $131,433 | Top: $141,136)
+* **Tenure Distribution by Department:** Rata-rata masa kerja (tahun) dibedakan berdasarkan status manajerial (*Manager: No / Yes*):
+  * **Customer Support:** 11.85 (No) / 13.43 (Yes)
+  * **Finance:** 8.79 (No) / 14.70 (Yes)
+  * **Human Resources:** 10.93 (No) / 16.07 (Yes)
+  * **Leadership:** 18.65 (Yes)
+  * **Marketing:** 9.67 (No) / 16.67 (Yes)
+  * **Operations:** 11.72 (No) / 18.81 (Yes)
+  * **Sales:** 10.97 (No) / 18.08 (Yes)
+* **Total Employees By Region:** Sebaran jumlah karyawan di tiap wilayah:
+  * **West:** 197 karyawan
+  * **Midwest:** 167 karyawan
+  * **Southwest:** 161 karyawan
+  * **Southeast:** 160 karyawan
+  * **Northeast:** 150 karyawan
+* **Total Employees By Gender:** Komposisi gender tenaga kerja terdiri dari **460 Male (M)** dan **375 Female (F)**.
+* **Salary vs Working Hours by Department:** Pemetaan hubungan antara rata-rata jam kerja (*Average Hours*) terhadap tingkat kompensasi (*Average Salary*) di seluruh departemen.
+
+### 🛠️ Tools Used
+
+* **Tableau Public:** Untuk pemrosesan data, pembuatan visualisasi interaktif, dan publikasi dashboard.
+* **Data Analytics:** Pemodelan data HR, pengelompokan (*binning*) umur, serta kalkulasi metrik agregasi gaji dan masa kerja.
+
+
+* **Link Interaktif:** https://public.tableau.com/views/DASHBOARDHRANALYTICS_17890822949640/HR_DASHBOARD?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
