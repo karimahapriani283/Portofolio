@@ -104,4 +104,8 @@ Dashboard interaktif ini menyajikan analisis komprehensif terkait struktur tenag
 * **Data Analytics:** Pemodelan data HR, pengelompokan (*binning*) umur, serta kalkulasi metrik agregasi gaji dan masa kerja.
 
 
+## **Preview:** 
+<img width="1099" height="599" alt="HR_DASHBOARD" src="https://github.com/user-attachments/assets/4b3f4623-c237-40f4-a3a4-98b54fb74b26" />
+
+
 * **Link Interaktif:** https://public.tableau.com/views/DASHBOARDHRANALYTICS_17890822949640/HR_DASHBOARD?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
